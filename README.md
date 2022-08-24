@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mitensahoo
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning java, mysql.
-- 💞️ I’m looking to collaborate on mysql miniproject.
+- 🌱 I’m currently learning c++,data structure and algorithm, web development, java, mysql, python.
+- 💞️ I’m looking to collaborate on mysql, python, web development miniprojects.
 - 📫 How to reach me mitenranjan.sahoo@gmail.com
 
 <!---
